@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Publication
-name: null
+title: Publications
 permalink: /Publications/
 ---
 
