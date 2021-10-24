@@ -4,7 +4,6 @@ title: null
 permalink: /Publications/
 ---
 
-## Publications 
 
 Rapaport F, Neelamraju Y, Baslan T, Hassane D, Gruszczynska A, Robert de Massy M, et al. Genomic and evolutionary portraits of disease relapse in acute myeloid leukemia. Leukemia. 2021. [Read it here!](https://pubmed.ncbi.nlm.nih.gov/33580203/)
 
