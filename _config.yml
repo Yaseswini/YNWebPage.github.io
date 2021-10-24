@@ -1,5 +1,4 @@
 title: Yaseswini Neelamraju
-layout: sidebar
 # author:
 #   name: Yaseswini Neelamraju
 #   email: yaseswinidot1404atgmaildotcom
@@ -13,12 +12,13 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
+  skin: dark
 
 
 
   # generate social links in footer
   #social_links:
-    #twitter: jekyllrb
+    twitter: jekyllrb
     #github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
