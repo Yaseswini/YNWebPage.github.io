@@ -34,6 +34,3 @@ From recent - 2013
 13.	Gokmen-Polar Y, Neelamraju Y, Goswami CP, Gu X, Nallamothu G, Janga SC, et al. Expression levels of SF3B3 correlate with prognosis and endocrine resistance in estrogen receptor-positive breast cancer. Mod Pathol. 2015;28(5):677-85.
 
 14.	Chaturvedi P, Neelamraju Y, Arif W, Kalsotra A, Janga SC. Uncovering RNA binding proteins associated with age and gender during liver maturation. Sci Rep. 2015; 5:9512.
-
-
-
