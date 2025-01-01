@@ -3,11 +3,6 @@ layout: page
 title: Publications
 permalink: /Publications/
 ---
----
-layout: page
-title: Publications
-permalink: /Publications/
----
 
 From recent - 2013
 * First author publications 
