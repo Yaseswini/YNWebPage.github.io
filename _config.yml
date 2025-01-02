@@ -1,7 +1,7 @@
 title: Yaseswini Neelamraju, Ph.D
-author:
-  name: Yaseswini Neelamraju
-  email: yaseswini.1404@gmail.com
+# author:
+#   name: Yaseswini Neelamraju
+#   email: yaseswini.1404@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -72,3 +72,5 @@ minima:
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
+  social_links:
+    - { platform: linkedin,          user_url: "https://www.linkedin.com/in/yaseswini-neelamraju-ph-d-14b7ba29/" }
