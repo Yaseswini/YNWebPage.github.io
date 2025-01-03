@@ -1,2 +1,12 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+/* Align social icons to the extreme right in the footer */
+.site-footer .social-links {
+  display: flex;             /* Set the container to flexbox */
+  justify-content: flex-end; /* Align the items (icons) to the right */
+}
+
+.site-footer .social-links a {
+  margin-left: 10px; /* Optional: Adds spacing between social icons */
+}
