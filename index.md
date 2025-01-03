@@ -3,4 +3,7 @@
   <img src="images/YN.jpg" alt="YNimage" style="width: 150px; height: 200px;"/>
 </div>
 
-Bioinformatics scientist with 10 years of experience in analyzing large-scale multi omic data (genomics, epigenomics and transcriptomics) generated from human subjects diagnosed with cancer. Experience working in highly collaborative environments. Passionate coder . A perfect blend of experience in informatics , biological sciences and translation research.
+Hi there, thanks for stopping by.. 
+
+Welcome & take a look around and discover more..  
+
