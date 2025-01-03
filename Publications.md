@@ -4,10 +4,10 @@ title: Publications
 permalink: /Publications/
 ---
 
-From recent - 2013
-* First author publications 
+<sup>*</sup>First author publications 
 
-1.	Neelamraju Y.*, E. Gjini, S. Chhangawala, H. Fan, S. He, C. B. Jing, A. T. Nguyen, S. Prajapati, C. Sheridan, Y. Houvras, A. Melnick, A. T. Look and F. E. Garrett-Bakelman (2023). "Depletion of tet2 results in age-dependent changes in DNA methylation and gene expression in a zebrafish model of myelodysplastic syndrome." [Read it here->](https://pubmed.ncbi.nlm.nih.gov/37937078/)
+
+1.	**<u>Neelamraju Y.*</u>**, E. Gjini, S. Chhangawala, H. Fan, S. He, C. B. Jing, A. T. Nguyen, S. Prajapati, C. Sheridan, Y. Houvras, A. Melnick, A. T. Look and F. E. Garrett-Bakelman (2023). "Depletion of tet2 results in age-dependent changes in DNA methylation and gene expression in a zebrafish model of myelodysplastic syndrome." **_<u>[Read it here](https://pubmed.ncbi.nlm.nih.gov/37937078/)</u>_**
 
 2. Rapaport, F.*, K. Seier*, Y. Neelamraju*, D. Hassane, T. Baslan, D. T. Gildea, S. Haddox, T. Lee, H. M. Murdock, C. Sheridan, A. Thurmond, L. Wang, M. Carroll, L. D. Cripe, H. Fernandez, C. E. Mason, E. Paietta, G. J. Roboz, Z. Sun, M. S. Tallman, Y. Zhang, M. Gonen, R. Levine, A. M. Melnick, M. Kleppe and F. E. Garrett-Bakelman (2022). "Integrative analysis identifies an older female-linked AML patient group with better risk in ECOG-ACRIN Cancer Research Group's clinical trial E3999." [Read it here][Pointing Right](images/pointing-right.png)(https://pubmed.ncbi.nlm.nih.gov/37407550/)
 
