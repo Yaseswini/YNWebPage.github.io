@@ -5,5 +5,5 @@
 
 Hi there, thanks for stopping by.. 
 
-Welcome & take a look around and discover more..  
+Welcome, take a look around and discover more..  
 
