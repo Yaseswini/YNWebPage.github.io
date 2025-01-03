@@ -74,3 +74,4 @@ minima:
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
   social_links:
     - { platform: linkedin,          user_url: "https://www.linkedin.com/in/yaseswini-neelamraju-ph-d-14b7ba29/" }
+    - { platform: github,            user_url: "https://github.com/Yaseswini" }
